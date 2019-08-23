@@ -1,8 +1,13 @@
 This readme is currently under a development and this message will be removed once it is done.
 
 # 0xBUTT Airdrop and a Trading Competition 
+To start the trading, goto: https://ddex.io/trade/0xBUTT-WETH
 
-![alt text](https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/airdrop_sm.jpg)
+ 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/airdrop_sm.jpg" width="256" title="Competition invite 1">
+</p>
 
 
 There are 3 main components to this trading competition. First component is the Airdrop, Second is a Trading competition, and Third are the rewards. If you are interested in only the Airdrop part, please read below, ButtCoin is going to be very strict and careful about this airdrop. It is always possible to cheat, but we will make it a bit harder this time.
