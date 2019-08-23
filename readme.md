@@ -60,7 +60,7 @@ This is not a candy, and it costs actual money. Airdrops will stard distributing
 
 
 ## PLEASE NOTE: 
-The original function of this competition will not be changed under any circumstances. We may only beautify it and add more information should we feel it is a necessary thing to do.
+The original function of this competition will not be changed under any circumstances. We may only beautify it and add more information should we feel it is a necessary thing to do. Hopefully people will not cheat and we will not be forced to alter any of the rules.
 
 
 
