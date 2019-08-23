@@ -64,7 +64,7 @@ https://ddex.zendesk.com/hc/en-us/articles/360025868233-Trading-to-carve-up-9-50
 The airdrop starts as soon as the announcement is made on a Twitter. The airdrop ends when at least 30 different (and registered) ETH addresses make a trade or when we reach the end of the first third of a competition time. We will give 150 tokens (burning applies).
 
 ### What are the requirements for this airdrop ?
-1. RETWEET AND SAY NOTHING! Any retweets that contain things such as "Promising project with big goals ahead...", "Good project", "Nice", "will moon", and so on... will be considered a cheat. Do not write a single letter!
+1. RETWEET AND SAY NOTHING! Any retweets that contain things such as "Promising project with big goals ahead...", "Good project", "Nice", "will moon", and so on... will be considered a cheat. Do not write a single letter!  Saying flattering things such as "This Self-distructing token has a unique characteristics because it is mine-able token and rewards miners. It is completely different to any other token out there. Different is great." does make us feel bad about being so strict about this airdrop, so please do follow these instructions.
 
 2. E-mail your Twitter @ account where we can see the retweet, as well as your ETH address. We will not accept e-mails that do not have these two together. Furthermore, please do not try to send duplicates it simply won't work.
 
