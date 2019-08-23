@@ -23,7 +23,7 @@ The first reward will be one million tokens, second and third will be 100,000 to
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
 
 ### How are tokens going to be supplied for the competition ?
-During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. Tokens will  be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made when this period begins and ends.
+During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. We will fill only 1000-2000 tokens per day. Tokens will be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made regarding the start and an end of this period.
 
 ### How long is this trading competition going to be ?
 It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
