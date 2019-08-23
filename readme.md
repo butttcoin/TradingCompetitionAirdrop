@@ -34,11 +34,11 @@ The airdrop starts as soon as the announcement is made on a Twitter. The airdrop
 ### What are the requirements for this airdrop ?
 1. RETWEET AND SAY NOTHING! Any retweets that contain things such as "good project", "nice", "will moon", and so on... will be considered a cheat. Do not write a single letter!
 
-2. E-mail your Twitter @ account where we can see the retweet, as well as your ETH address.
+2. E-mail your Twitter @ account where we can see the retweet, as well as your ETH address. We will not accept e-mails that do not have these two together. Furthermore, please do not try to send duplicates it simply won't work.
 
-3. You must retweet directly from our Twitter page (@0xbutt) and we must be able to see it listed on an original tweet.
+3. You must retweet directly from our Twitter page (@0xbutt) and we must be able to see it listed on an original tweet and not someone else's re-tweet.
 
--Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given, except our deepest gratitude for a retweet.
+-Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given, except for our deepest gratitude for a retweet.
 
 
 
