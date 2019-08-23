@@ -41,7 +41,7 @@ During the first third of a competition, any buy-order that is 0.000002 or great
 ### How long is this trading competition going to be ?
 It is going to be at least 3-times longer than the standard DDEX competition. In other words, at least one month! Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
 
-## You mentioned a DDEX competition, what is that ?
+### You mentioned a DDEX competition, what is that ?
 Lets just say that rewards are going to be so big that your pants will shake and you won't know whether it is an Earthquake!
 Nevertheless, it will look like this:
 
