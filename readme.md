@@ -42,7 +42,7 @@ FULL ADDRESS:
 
 1. Your ETH address must be the address where we can see and calculate the total trading volume.
 2. Name can be any name, as long as the post-office can recognize you.
-3. Address must contain City, Postal/Area code, Country as well as other information. We will confirm each location on Google Maps to see if the address is valid. If Google Maps does not show any results, you will be contacted via e-mail. We will wait 3-5 business days for a reply (otherwise, other contestants will be rewarded).
+3. Address must contain City, Postal/Area code, Country as well as other information. We will confirm each location on Google Maps to see if the address is valid. If Google Maps does not show any results, you will be contacted via e-mail. We will wait 3-5 business days for a reply (otherwise, other contestants will be rewarded the physical reward).
 
 ### Can I enter without providing my physical address ?
 Yes you can, however, the physical reward will be given to the next account with a physical address and the highest trading volume.
