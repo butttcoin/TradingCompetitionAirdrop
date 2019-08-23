@@ -18,9 +18,22 @@ Protonmail is the best way to make sure that your infomration is encrypted, stay
 ### What are the physical rewards ?
 We are not going to say what the physical rewards are. It is going to be a collectible item, and perhaps one day, it will become worth much more than a ButtCoin. We are ready to send 30 rewards with the mail to any location that will not exceed $5 Canadian. Furthermore, the first, second and the third prices could cost up to $40 (Canadian) per reward and shipping/handling will be covered by the ButtCoin. If you are not sure about your location, please ask by sending an e-mail to info@0xbutt.com and we will confirm with the post-office. Please include your country/city and an ETH trading address.
 
-### What are the token rewards ?
+### What are the token rewards for this competition ?
 The first reward will be one million tokens, second and third will be 100,000 tokens.
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
+
+## How do I enter this competition ?
+Send an email to:... using this template
+
+YOUR ETH ADDRESS:
+NAME:
+FULL ADDRESS:
+
+1. Your ETH address must be the address where we can see and calculate the total trading volume.
+2. Name can be any name, as long as the post-office can recognize you.
+3. Address must contain City, Postal/Area code, Country as well as other information. We will confirm each location on Google Earth to see if the address is valid. If Google Earth does not show any results, you will be contacted via e-mail. We will wait 3 business days for a reply (otherwise, other contestants will be rewarded).
+
+
 
 ### How are tokens going to be supplied for the competition ?
 During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. We will fill only 1000-2000 tokens per day. We are also going to create some additional "sell" orders for you to take. Tokens will be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made regarding the start and an end of this period.
