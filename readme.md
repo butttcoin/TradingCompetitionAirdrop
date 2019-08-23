@@ -87,7 +87,7 @@ SUBJECT: any_subject
 
 ANY OTHER FORMAT WILL NOT BE ACCEPTED! (However, you may put the twitter address first and then the ETH address).
 
-If you have any questions, do not use 0xBUTT email address. Use info@0xbutt.com instead.
+If you have any questions, do not use butt150@protonmail.com. Use info@0xbutt.com instead.
 
 ### When will airdrop be distributed ?
 This is not a candy, and it costs actual money. Airdrops will start distributing after the competition winners are announced and their physical rewards distributed. 
