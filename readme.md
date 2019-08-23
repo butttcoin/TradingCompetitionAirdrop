@@ -1,6 +1,6 @@
 This readme is currently under a development and this message will be removed once it is done.
 
-## 0xBUTT Trading Competition Airdrop
+# 0xBUTT Trading Competition Airdrop
 
 There are 3 main components to this trading competition. First component is the Airdrop, Second is the Trading competition, and Third are the rewards. If you are interested in only the Airdrop part, please read below, ButtCoin is going to be very strict and careful about this airdrop. It is always possible to cheat, but we will make it a bit harder this time.
 
@@ -59,7 +59,7 @@ If you have any questions, do not use 0xBUTT email address. Use info@0xbutt.com 
 This is not a candy, and it costs actual money. Airdrops will stard distributing after the competition winners are announced and their physical rewards distributed. 
 
 
-# PLEASE NOTE: 
+## PLEASE NOTE: 
 The original function of this competition will not be changed under any circumstances. We may only beautify it and add more information should we feel it is a necessary thing to do.
 
 
