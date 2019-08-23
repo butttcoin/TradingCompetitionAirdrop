@@ -28,7 +28,7 @@ Protonmail is the best way to make sure that your infomration is encrypted, stay
 We are not going to say what the physical rewards are. It is going to be a collectible item, and perhaps one day, it will become worth much more than a ButtCoin. We are ready to send 30 rewards with the mail to any location that will not exceed $5 Canadian. Furthermore, the first, second and the third prices could cost up to $40 (Canadian) per reward and shipping/handling will be covered by the ButtCoin. If you are not sure about your location, please ask by sending an e-mail to info@0xbutt.com and we will confirm with the post-office. Please include your country/city and an ETH trading address.
 
 ### What are the token rewards for this competition ?
-The first reward will be one million tokens, second and third will be 100,000 tokens.
+The first reward will be one million tokens, second 0.5 million, and third will be 0.1 million tokens.
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
 
 ## How do I enter this competition ?
