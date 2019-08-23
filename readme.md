@@ -29,7 +29,16 @@ During the first third of a competition, any buy-order that is 0.000002 or great
 It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
 
 ### When does the airdrop start and end, and when will the airdrop rewards be given (and how much) ?
-The airdrop starts as soon as the announcement is made on a Twitter. The airdrop ends when at least 30 different (and registered) ETH addresses make a trade or when we reach the end of the first third of a competition time.
+The airdrop starts as soon as the announcement is made on a Twitter. The airdrop ends when at least 30 different (and registered) ETH addresses make a trade or when we reach the end of the first third of a competition time. We will give 150 tokens (burning applies).
+
+### What are the requirements for this airdrop ?
+1. RETWEET AND SAY NOTHING! Any retweets that contain things such as "good project", "nice", "will moon", and so on... will be considered a cheat. Do not write a single letter!
+
+2. E-mail your Twitter @ account where we can see the retweet, as well as your ETH address.
+
+3. You must retweet directly from our Twitter page (@0xbutt) and we must be able to see it listed on an original tweet.
+
+-Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given, except our deepest gratitude for a retweet.
 
 
 
