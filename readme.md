@@ -25,9 +25,11 @@ This time, the rewards will not come from the community account but directly fro
 ## How do I enter this competition ?
 Send an email to:... using this template
 
+``` js
 YOUR ETH ADDRESS:
 NAME:
 FULL ADDRESS:
+```
 
 1. Your ETH address must be the address where we can see and calculate the total trading volume.
 2. Name can be any name, as long as the post-office can recognize you.
@@ -66,12 +68,14 @@ Any mistakes would mean that there is either some automatization involved or tha
 
 This is an example of what the e-mail should contain:
 
+``` js
 FROM: your@email.com
 TO: 0xBUTT
 SUBJECT: any_subject
 
 0x615E3b6A61e8A5C9f3332752eF82517224857b32
 @0xbutt
+```
 
 ANY OTHER FORMAT WILL NOT BE ACCEPTED! (However, you may put the twitter address first and then the ETH address).
 
