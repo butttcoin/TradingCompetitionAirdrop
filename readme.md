@@ -72,13 +72,13 @@ The airdrop starts as soon as the announcement is made on a Twitter. The airdrop
 
 4. You can use any e-mail subject you want. If you think you made a mistake, just send another e-mail with the correct information.
 
-Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given under such circumstances. The only thing you can get is our deepest gratitude for a retweet. Furthermore, your ETH addresses will not be listed anywhere for a public to see. Everything will be kept private.
+Your ETH addresses will not be listed anywhere for a public to see. Everything will be kept private and encrypted on protonmail servers. Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given under such circumstances. The only thing you can get is our deepest gratitude for a retweet. Use this e-mail address to send your twitter address and ETH address: butt150@protonmail.com
 
 This is an example of what the e-mail should contain:
 
 ``` js
 FROM: your@email.com
-TO: 0xBUTT
+TO: butt150@protonmail.com
 SUBJECT: any_subject
 
 0x615E3b6A61e8A5C9f3332752eF82517224857b32
