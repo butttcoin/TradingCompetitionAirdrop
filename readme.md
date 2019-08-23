@@ -38,7 +38,9 @@ The airdrop starts as soon as the announcement is made on a Twitter. The airdrop
 
 3. You must retweet directly from our Twitter page (@0xbutt) and we must be able to see it listed on an original tweet and not someone else's re-tweet.
 
-Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given, except for our deepest gratitude for a retweet. 
+4. You can use any e-mail subject you want. If you think you made a mistake, just send another e-mail with the correct information.
+
+Any mistakes would mean that there is either some automatization involved or that you have blindly retweeted without caring about this project.  Sorry, no tokens will be given under such circumstances. The only thing you can get is our deepest gratitude for a retweet. Furthermore, your ETH addresses will not be listed anywhere for a public to see. Everything will be kept private.
 
 This is an example of what the e-mail should contain:
 
@@ -51,7 +53,7 @@ SUBJECT: any_subject
 
 ANY OTHER FORMAT WILL NOT BE ACCEPTED! (However, you may put the twitter address first and then the ETH address).
 
-
+If you have any questions, do not use 0xBUTT email address. Use info@0xbutt.com instead.
 
 
 
