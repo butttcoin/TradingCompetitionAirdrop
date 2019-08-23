@@ -31,7 +31,7 @@ We are not going to say what the physical rewards are. It is going to be a colle
 The first reward will be one million tokens, second 0.5 million, and third will be 0.1 million tokens.
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
 
-## How do I enter this competition ?
+## How do I enter a trading competition ?
 Send an email to tradingcompetition@protonmail.com using this template:
 
 ``` js
