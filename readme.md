@@ -1,7 +1,8 @@
 This readme is currently under a development and this message will be removed once it is done.
 
 # 0xBUTT Airdrop and a Trading Competition 
-To start the trading, goto: https://ddex.io/trade/0xBUTT-WETH
+
+<p align="center"> To start the trading, goto: https://ddex.io/trade/0xBUTT-WETH </p>
 
  
 
