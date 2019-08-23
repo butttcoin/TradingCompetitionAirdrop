@@ -33,6 +33,9 @@ FULL ADDRESS:
 2. Name can be any name, as long as the post-office can recognize you.
 3. Address must contain City, Postal/Area code, Country as well as other information. We will confirm each location on Google Earth to see if the address is valid. If Google Earth does not show any results, you will be contacted via e-mail. We will wait 3 business days for a reply (otherwise, other contestants will be rewarded).
 
+## Can I enter without providing my physical address ?
+Yes you can, however, the physical reward will be given to the next account with an address and the highest trading volume.
+
 
 
 ### How are tokens going to be supplied for the competition ?
@@ -75,7 +78,7 @@ ANY OTHER FORMAT WILL NOT BE ACCEPTED! (However, you may put the twitter address
 If you have any questions, do not use 0xBUTT email address. Use info@0xbutt.com instead.
 
 ### When will airdrop be distributed ?
-This is not a candy, and it costs actual money. Airdrops will stard distributing after the competition winners are announced and their physical rewards distributed. 
+This is not a candy, and it costs actual money. Airdrops will start distributing after the competition winners are announced and their physical rewards distributed. 
 
 
 ## PLEASE NOTE: 
