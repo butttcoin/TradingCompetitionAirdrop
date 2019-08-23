@@ -35,7 +35,7 @@ This time, the rewards will not come from the community account but directly fro
 Send an email to tradingcompetition@protonmail.com using this template:
 
 ``` js
-YOUR ETH ADDRESS:
+ETH ADDRESS:
 NAME:
 FULL ADDRESS:
 ```
