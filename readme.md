@@ -26,6 +26,8 @@ This time, the rewards will not come from the community account but directly fro
 During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. Tokens will  be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made when this period begins and ends.
 
 ### How long is this trading competition going to be ?
+It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although the requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that the trading will continue once the competition is done.
+
 
 
 
