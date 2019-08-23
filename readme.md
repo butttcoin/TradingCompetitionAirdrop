@@ -23,10 +23,10 @@ The first reward will be one million tokens, second and third will be 100,000 to
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
 
 ### How are tokens going to be supplied for the competition ?
-During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. We will fill only 1000-2000 tokens per day. Tokens will be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made regarding the start and an end of this period.
+During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. We will fill only 1000-2000 tokens per day. We are also going to create some additional "sell" orders for you to take. Tokens will be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made regarding the start and an end of this period.
 
 ### How long is this trading competition going to be ?
-It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
+It is going to be at least 3-times longer than the standard DDEX competition. In other words, at least one month! Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
 
 ### When does the airdrop start and end, and when will the airdrop rewards be given (and how much) ?
 The airdrop starts as soon as the announcement is made on a Twitter. The airdrop ends when at least 30 different (and registered) ETH addresses make a trade or when we reach the end of the first third of a competition time. We will give 150 tokens (burning applies).
@@ -54,6 +54,13 @@ SUBJECT: any_subject
 ANY OTHER FORMAT WILL NOT BE ACCEPTED! (However, you may put the twitter address first and then the ETH address).
 
 If you have any questions, do not use 0xBUTT email address. Use info@0xbutt.com instead.
+
+### When will airdrop be distributed ?
+This is not a candy, and it costs actual money. Airdrops will stard distributing after the competition winners are announced and their physical rewards distributed. 
+
+
+# PLEASE NOTE: 
+The original function of this competition will not be changed under any circumstances. We may only beautify it and add more information should we feel it is a necessary thing to do.
 
 
 
