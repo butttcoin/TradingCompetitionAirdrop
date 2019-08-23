@@ -16,7 +16,7 @@ ButtCoin strongly believes that in order to gain, we need to give first. Neverth
 Protonmail is the best way to make sure that your infomration is encrypted, stays encrypted, and is not obtained by anyone else rather than ButtCoin. Furthermore, ButtCoin will make sure that any information that you provide is not used by anyone else other than ButtCoin and for no other purpose other than completing the Airdrop and a Trading Competition.
 
 ### What are the physical rewards ?
-We are not going to say what the physical rewards are. It is going to be a collectible item, and perhaps one day, it will become worth much more than a ButtCoin. We are ready to send 30 rewards with the mail to any location that will not exceed $5 Canadian. Furthermore, the first, second and the third prices could cost up to $40 (Canadian) per reward and shipping/handling will be covered by the ButtCoin.
+We are not going to say what the physical rewards are. It is going to be a collectible item, and perhaps one day, it will become worth much more than a ButtCoin. We are ready to send 30 rewards with the mail to any location that will not exceed $5 Canadian. Furthermore, the first, second and the third prices could cost up to $40 (Canadian) per reward and shipping/handling will be covered by the ButtCoin. If you are not sure about your location, please ask by sending an e-mail to info@0xbutt.com and we will confirm with the post-office. Please include your country/city and an ETH trading address.
 
 ### What are the token rewards ?
 The first reward will be one million tokens, second and third will be 100,000 tokens.
@@ -26,7 +26,7 @@ This time, the rewards will not come from the community account but directly fro
 During the first third of a competition, any buy-order that is 0.000002 or greater will be filled by the ButtCoin. Tokens will  be taken from a community account and any money that is earned will be spent on an airdrop. Announcements will be made when this period begins and ends.
 
 ### How long is this trading competition going to be ?
-It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that the trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
+It is going to be at least 3-times longer than the standard DDEX competition. Consider this a warm-up to a DDEX competition. Although requirement for a DDEX competition is to have a toal volume of 10 ETH, we can end the competition without fulfilling this requirement. We simply have to make sure that a normal trading will continue once the competition is done. The worst-case scenario is competition not getting more than 30 candidates and trading volume not increasing. In that case, the competition will not end until announced.
 
 
 
