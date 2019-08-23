@@ -32,7 +32,7 @@ The first reward will be one million tokens, second and third will be 100,000 to
 This time, the rewards will not come from the community account but directly from a developers' account. This way, we will leave more tokens for the community.
 
 ## How do I enter this competition ?
-Send an email to:... using this template
+Send an email to tradingcompetition@protonmail.com using this template:
 
 ``` js
 YOUR ETH ADDRESS:
