@@ -8,6 +8,9 @@ This readme is currently under a development and this message will be removed on
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/airdrop_sm.jpg" width="256" title="Competition invite 1">
+   <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/qFpG01566560790.png" width="256" title="Competition invite 1">
+ 
+ 
 </p>
 
 
