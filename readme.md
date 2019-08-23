@@ -1,6 +1,6 @@
 This readme is currently under a development and this message will be removed once it is done.
 
-# 0xBUTT Trading Competition Airdrop
+# 0xBUTT Airdrop and a Trading Competition 
 
 There are 3 main components to this trading competition. First component is the Airdrop, Second is a Trading competition, and Third are the rewards. If you are interested in only the Airdrop part, please read below, ButtCoin is going to be very strict and careful about this airdrop. It is always possible to cheat, but we will make it a bit harder this time.
 
