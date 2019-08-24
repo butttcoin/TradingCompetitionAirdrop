@@ -16,6 +16,12 @@ This readme is currently under a development and this message will be removed on
 
 There are 3 main components to this trading competition. First component is the Airdrop, Second is a Trading competition, and Third are the rewards. If you are interested in only the Airdrop part, please read below, ButtCoin is going to be very strict and careful about this airdrop. It is always possible to cheat, but we will make it a bit harder this time.
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/ES5Gr1566674127.jpg" width="256" title="Competition invite 1"> 
+</p>
+
 ### Main goal(s)
 
 Our last airdrop was a big success, and this time, we will implement the same mechanisms to initiate the trading on a DDEX exchange. https://ddex.io/trade/0xBUTT-WETH
