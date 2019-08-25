@@ -20,8 +20,9 @@ There are 3 main components to this trading competition. First component is the 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/ES5Gr1566674127.jpg" width="256" title="Competition invite 1"> 
-   <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/sAjDi1566696244.jpg" width="256" title="Competition invite 1"> 
- 
+   <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/sAjDi1566696244.jpg" width="256" title="Competition invite 2"> 
+    <img src="https://raw.githubusercontent.com/butttcoin/TradingCompetitionAirdrop/master/twitter_imgs/airdrop_blnk3.jpg" width="256" title="Competition invite 3"> 
+
 
 </p>
 
