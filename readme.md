@@ -1,8 +1,9 @@
 This readme is currently under a development and this message will be removed once it is done.
 
-# ButtCoin (0xBUTT) Airdrop and a Trading Competition 
+# ButtCoin (0xBUTT) Airdrop and a Trading Competition - CLOSED!
 
-### THE AIRDROP PERIOD HAS ENDED !
+### THE AIRDROP PERIOD HAS ENDED AND TRADING COMPETITION CLOSED!
+Due to inability to meet the trading competition requirements, this competition has been closed. It may re-open in the future, but it is uncertain when, and if ever.
 
 <p align="center"> To start the trading, goto: https://ddex.io/trade/0xBUTT-WETH </p>
 
