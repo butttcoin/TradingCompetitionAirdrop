@@ -2,6 +2,8 @@ This readme is currently under a development and this message will be removed on
 
 # ButtCoin (0xBUTT) Airdrop and a Trading Competition 
 
+### THE AIRDROP PERIOD HAS ENDED !
+
 <p align="center"> To start the trading, goto: https://ddex.io/trade/0xBUTT-WETH </p>
 
  
